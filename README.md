@@ -11,7 +11,7 @@ The `data` folder contains inputs and targets used for training and testing.
 
 The `model_files` folder is used to cache the outputs of the `T5-Small` incuding the weights and tokenenizer.
 
-The `models` folder contains the `.ipynb` notebook needed to run the project.
+The `models` folder contains the `.ipynb` notebook needed to run the project as well as images of architectures of the 3 custom models: `Seq2Seq`, `AttSeq`, and `Transformer`
 
 ### Instructions:
 
